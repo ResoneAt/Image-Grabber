@@ -5,6 +5,43 @@
 
 Downloads highest-resolution images for a given topic.
 
+## Use Cases
+
+This tool is perfect for various applications:
+
+### 🤖 **Machine Learning & AI**
+- **Dataset Collection**: Gather training data for computer vision models
+- **Image Classification**: Collect labeled images for classification tasks
+- **Object Detection**: Build datasets for detecting specific objects
+- **Style Transfer**: Collect images for neural style transfer models
+- **GAN Training**: Gather diverse images for Generative Adversarial Networks
+
+### 🎨 **Creative Projects**
+- **Digital Art**: Collect reference images for digital artwork
+- **Graphic Design**: Gather inspiration and assets for design projects
+- **Content Creation**: Build image libraries for blogs, websites, presentations
+- **Mood Boards**: Create visual collections for design inspiration
+
+### 📚 **Research & Education**
+- **Academic Research**: Collect visual data for research papers
+- **Educational Materials**: Gather images for teaching presentations
+- **Cultural Studies**: Collect images of historical sites, artifacts, traditions
+- **Language Learning**: Gather visual context for vocabulary learning
+
+### 🏢 **Business Applications**
+- **Product Research**: Collect competitor product images
+- **Market Analysis**: Gather visual data for market research
+- **Brand Monitoring**: Track how your brand appears in search results
+- **Content Marketing**: Build image libraries for marketing campaigns
+
+### 🔍 **Technical Applications**
+- **Web Scraping**: Automated image collection for various purposes
+- **Data Analysis**: Visual data collection for analytical projects
+- **Testing**: Gather test images for software development
+- **Documentation**: Collect screenshots and visual examples
+
+## Features
+
 - Default backend: DuckDuckGo Images (no key, can rate-limit)
 - Optional backend: Google Custom Search (stable, needs API key and CX)
 
